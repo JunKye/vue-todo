@@ -1,6 +1,10 @@
 # vue-todo
 
 > A Vue.js project
+>
+> This is todo application
+>
+> vue init webpack-simple
 
 ## Build Setup
 
