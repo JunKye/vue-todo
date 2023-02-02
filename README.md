@@ -3,8 +3,13 @@
 > A Vue.js project
 >
 > This is todo application
+
+
+> created with
 >
 > vue init webpack-simple
+
+> https://vuejstodo-aa185.firebaseapp.com/ 참조
 
 ## Build Setup
 
